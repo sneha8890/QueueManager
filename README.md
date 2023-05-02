@@ -1,2 +1,7 @@
 # QueueManager
-Our group developed a barcode/QR scanner application that creates e-bills to reduce long queues in supermarkets. With this app, users can easily scan products and quickly generate an electronic bill, streamlining the checkout process. Say goodbye to waiting in long lines and hello to a more efficient shopping experience.
+Barcode/QR Scanner E-bill Application
+This application is designed to help reduce long queues in supermarkets by streamlining the checkout process through the use of a barcode/QR scanner. With this app, users can easily scan products and quickly generate an electronic bill, making shopping a breeze.
+
+Features
+Barcode/QR scanner for product scanning
+Electronic bill generator system
